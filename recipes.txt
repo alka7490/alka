@@ -8,6 +8,10 @@ pASTA
 
 
 
+PIZZA 
+BEANS
+
+
 IDLI
 WADA
 
